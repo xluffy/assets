@@ -1,0 +1,186 @@
+(443.https.tls.certificate.parsed.names: medium.com OR 443.https.tls.certificate.parsed.subject.common_name: medium.com)
+
+(443.https.tls.certificate.parsed.names: medium.com OR 443.https.tls.certificate.parsed.subject.common_name: medium.com AND autonomous_system.description.raw: "AMAZON-AES - Amazon.com, Inc.")
+
+IPv4 Hosts
+Page: 1/2 Results: 30 Time: 93ms
+
+ 104.16.121.127
+ CLOUDFLARENET - Cloudflare, Inc. (13335)  United States 
+ 443/https, 80/http, 8080/http 
+ Direct IP access not allowed | Cloudflare  medium.com, www.medium.com 
+ 443.https.tls.certificate.parsed.subject.common_name: medium.com
+
+ 104.16.122.127
+ CLOUDFLARENET - Cloudflare, Inc. (13335)  United States 
+ 443/https, 80/http, 8080/http 
+ Direct IP access not allowed | Cloudflare  medium.com, www.medium.com 
+ 443.https.tls.certificate.parsed.subject.common_name: medium.com
+
+ 104.16.124.127
+ CLOUDFLARENET - Cloudflare, Inc. (13335)  United States 
+ 443/https, 80/http, 8080/http 
+ Direct IP access not allowed | Cloudflare  medium.com, www.medium.com 
+ 443.https.tls.certificate.parsed.subject.common_name: medium.com
+
+ 104.16.120.127
+ CLOUDFLARENET - Cloudflare, Inc. (13335)  United States 
+ 443/https, 80/http 
+ Direct IP access not allowed | Cloudflare  medium.com, www.medium.com 
+ 443.https.tls.certificate.parsed.subject.common_name: medium.com
+
+ 104.16.123.127
+ CLOUDFLARENET - Cloudflare, Inc. (13335)  United States 
+ 443/https, 80/http, 8080/http 
+ Direct IP access not allowed | Cloudflare  medium.com, www.medium.com 
+ 443.https.tls.certificate.parsed.subject.common_name: medium.com
+
+ 52.1.147.205 (ec2-52-1-147-205.compute-1.amazonaws.com)
+ AMAZON-AES - Amazon.com, Inc. (14618)  Ashburn, Virginia, United States 
+ 443/https 
+ *.medium.com, medium.com 
+ 443.https.tls.certificate.parsed.extensions.subject_alt_name.dns_names: medium.com
+
+ 52.6.3.192 (ec2-52-6-3-192.compute-1.amazonaws.com)
+ AMAZON-AES - Amazon.com, Inc. (14618)  Ashburn, Virginia, United States 
+ 443/https 
+ *.medium.com, medium.com 
+ 443.https.tls.certificate.parsed.extensions.subject_alt_name.dns_names: medium.com
+
+ 54.167.232.247 (ec2-54-167-232-247.compute-1.amazonaws.com)
+ AMAZON-AES - Amazon.com, Inc. (14618)  Ashburn, Virginia, United States 
+ 443/https 
+ *.medium.com, medium.com 
+ 443.https.tls.certificate.parsed.extensions.subject_alt_name.dns_names: medium.com
+
+ 52.4.175.111 (ec2-52-4-175-111.compute-1.amazonaws.com)
+ AMAZON-AES - Amazon.com, Inc. (14618)  Ashburn, Virginia, United States 
+ 443/https 
+ *.medium.com, medium.com 
+ 443.https.tls.certificate.parsed.extensions.subject_alt_name.dns_names: medium.com
+
+ 3.94.121.79 (ec2-3-94-121-79.compute-1.amazonaws.com)
+ AMAZON-AES - Amazon.com, Inc. (14618)  Ashburn, Virginia, United States 
+ 443/https 
+ *.medium.com, medium.com 
+ 443.https.tls.certificate.parsed.extensions.subject_alt_name.dns_names: medium.com
+
+ 52.5.181.79 (ec2-52-5-181-79.compute-1.amazonaws.com)
+ AMAZON-AES - Amazon.com, Inc. (14618)  Ashburn, Virginia, United States 
+ 443/https 
+ *.medium.com, medium.com 
+ 443.https.tls.certificate.parsed.extensions.subject_alt_name.dns_names: medium.com
+
+ 52.1.173.203 (ec2-52-1-173-203.compute-1.amazonaws.com)
+ AMAZON-AES - Amazon.com, Inc. (14618)  Ashburn, Virginia, United States 
+ 443/https 
+ *.medium.com, medium.com 
+ 443.https.tls.certificate.parsed.extensions.subject_alt_name.dns_names: medium.com
+
+ 52.4.145.119 (ec2-52-4-145-119.compute-1.amazonaws.com)
+ AMAZON-AES - Amazon.com, Inc. (14618)  Ashburn, Virginia, United States 
+ 443/https 
+ *.medium.com, medium.com 
+ 443.https.tls.certificate.parsed.extensions.subject_alt_name.dns_names: medium.com
+
+ 52.6.46.142 (ec2-52-6-46-142.compute-1.amazonaws.com)
+ AMAZON-AES - Amazon.com, Inc. (14618)  Ashburn, Virginia, United States 
+ 443/https 
+ *.medium.com, medium.com 
+ 443.https.tls.certificate.parsed.extensions.subject_alt_name.dns_names: medium.com
+
+ 52.0.16.118 (ec2-52-0-16-118.compute-1.amazonaws.com)
+ AMAZON-AES - Amazon.com, Inc. (14618)  Ashburn, Virginia, United States 
+ 443/https 
+ *.medium.com, medium.com 
+ 443.https.tls.certificate.parsed.extensions.subject_alt_name.dns_names: medium.com
+
+ 52.4.225.124 (ec2-52-4-225-124.compute-1.amazonaws.com)
+ AMAZON-AES - Amazon.com, Inc. (14618)  Ashburn, Virginia, United States 
+ 443/https 
+ *.medium.com, medium.com 
+ 443.https.tls.certificate.parsed.extensions.subject_alt_name.dns_names: medium.com
+
+ 52.6.25.83 (ec2-52-6-25-83.compute-1.amazonaws.com)
+ AMAZON-AES - Amazon.com, Inc. (14618)  Ashburn, Virginia, United States 
+ 443/https 
+ *.medium.com, medium.com 
+ 443.https.tls.certificate.parsed.extensions.subject_alt_name.dns_names: medium.com
+
+ 52.206.109.232 (ec2-52-206-109-232.compute-1.amazonaws.com)
+ AMAZON-AES - Amazon.com, Inc. (14618)  Ashburn, Virginia, United States 
+ 443/https 
+ *.medium.com, medium.com 
+ 443.https.tls.certificate.parsed.extensions.subject_alt_name.dns_names: medium.com
+
+ 104.16.118.145
+ CLOUDFLARENET - Cloudflare, Inc. (13335)  United States 
+ 443/https, 80/http, 8080/http 
+ Direct IP access not allowed | Cloudflare  *.medium.com, medium.com 
+ 443.https.tls.certificate.parsed.extensions.subject_alt_name.dns_names: medium.com
+
+ 104.16.121.145
+ CLOUDFLARENET - Cloudflare, Inc. (13335)  United States 
+ 443/https, 80/http, 8080/http 
+ Direct IP access not allowed | Cloudflare  *.medium.com, medium.com 
+ 443.https.tls.certificate.parsed.extensions.subject_alt_name.dns_names: medium.com
+
+ 54.208.127.235 (ec2-54-208-127-235.compute-1.amazonaws.com)
+ AMAZON-AES - Amazon.com, Inc. (14618)  Ashburn, Virginia, United States 
+ 443/https 
+ *.medium.com, medium.com 
+ 443.https.tls.certificate.parsed.extensions.subject_alt_name.dns_names: medium.com
+
+ 52.4.38.70 (ec2-52-4-38-70.compute-1.amazonaws.com)
+ AMAZON-AES - Amazon.com, Inc. (14618)  Ashburn, Virginia, United States 
+ 443/https 
+ *.medium.com, medium.com 
+ 443.https.tls.certificate.parsed.extensions.subject_alt_name.dns_names: medium.com
+
+ 104.16.120.145
+ CLOUDFLARENET - Cloudflare, Inc. (13335)  United States 
+ 443/https, 80/http, 8080/http 
+ Direct IP access not allowed | Cloudflare  *.medium.com, medium.com 
+ 443.https.tls.certificate.parsed.extensions.subject_alt_name.dns_names: medium.com
+
+ 104.16.117.145
+ CLOUDFLARENET - Cloudflare, Inc. (13335)  United States 
+ 443/https, 80/http 
+ Direct IP access not allowed | Cloudflare  *.medium.com, medium.com 
+ 443.https.tls.certificate.parsed.extensions.subject_alt_name.dns_names: medium.com
+
+ 34.204.47.92
+ AMAZON-AES - Amazon.com, Inc. (14618)  Ashburn, Virginia, United States 
+ 443/https 
+ *.medium.com, medium.com 
+ 443.https.tls.certificate.parsed.extensions.subject_alt_name.dns_names: medium.com
+
+ 104.16.117.145
+ CLOUDFLARENET - Cloudflare, Inc. (13335)  United States 
+ 443/https, 80/http 
+ Direct IP access not allowed | Cloudflare  *.medium.com, medium.com 
+ 443.https.tls.certificate.parsed.extensions.subject_alt_name.dns_names: medium.com
+
+ 34.204.47.92 (ec2-34-204-47-92.compute-1.amazonaws.com)
+ AMAZON-AES - Amazon.com, Inc. (14618)  Ashburn, Virginia, United States 
+ 443/https 
+ *.medium.com, medium.com 
+ 443.https.tls.certificate.parsed.extensions.subject_alt_name.dns_names: medium.com
+
+ 52.1.119.170 (ec2-52-1-119-170.compute-1.amazonaws.com)
+ AMAZON-AES - Amazon.com, Inc. (14618)  Ashburn, Virginia, United States 
+ 443/https 
+ *.medium.com, medium.com 
+ 443.https.tls.certificate.parsed.extensions.subject_alt_name.dns_names: medium.com
+
+ 104.16.119.145
+ CLOUDFLARENET - Cloudflare, Inc. (13335)  United States 
+ 443/https, 80/http, 8080/http 
+ Direct IP access not allowed | Cloudflare  *.medium.com, medium.com 
+ 443.https.tls.certificate.parsed.extensions.subject_alt_name.dns_names: medium.com
+
+ 123.56.173.123
+ CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd. (37963)  Hangzhou, Zhejiang, China 
+ 443/https 
+ *.wikipedia.org, *.m.wikimedia.org, wikipedia.org 
+ 443.https.tls.certificate.parsed.extensions.subject_alt_name.dns_names: medium.com
